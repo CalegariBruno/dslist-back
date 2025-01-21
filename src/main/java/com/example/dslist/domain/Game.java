@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 @Table(name = "tb_game")
 @AllArgsConstructor
 @NoArgsConstructor
-@EqualsAndHashCode
 @Data
 public class Game {
 
