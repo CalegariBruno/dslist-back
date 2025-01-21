@@ -1,10 +1,8 @@
 package com.example.dslist.domain;
 
-import com.example.dslist.dtos.GameDTO;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 
 @Entity
